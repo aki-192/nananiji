@@ -3,7 +3,10 @@ site_url: https://aki-192.github.io/nananiji/
 repo_url: https://github.com/aki-192/nananiji
 nav:
   - index.md
-  - 12sgsp.md
+  - keisanchu-s5.md
   - keisangai.md
+  - sp.md
 theme:
   name: material
+  palette:
+    primary: light blue
