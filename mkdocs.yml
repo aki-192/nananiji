@@ -1,4 +1,7 @@
 site_name: Nananiji
 site_url: https://aki-192.github.io/nananiji/
+repo_url: https://github.com/aki-192/nananiji
+nav:
+  - Home: "index.md"
 theme:
   name: material
