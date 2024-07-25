@@ -1,6 +1,5 @@
 site_name: 22/7
 site_url: https://aki-192.github.io/nananiji/
-repo_url: https://github.com/aki-192/nananiji
 nav:
   - index.md
   - keisanchu-s5.md
@@ -10,3 +9,4 @@ theme:
   name: material
   palette:
     primary: light blue
+plugins: []
