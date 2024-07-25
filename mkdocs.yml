@@ -1,7 +1,9 @@
-site_name: Nananiji
+site_name: 22/7
 site_url: https://aki-192.github.io/nananiji/
 repo_url: https://github.com/aki-192/nananiji
 nav:
-  - Home: "index.md"
+  - index.md
+  - 12sgsp.md
+  - keisangai.md
 theme:
   name: material
