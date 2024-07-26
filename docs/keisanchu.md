@@ -84,3 +84,4 @@ title: 計算中
 | 076 | 2019.12.14 | パネル解除争奪! クリスマス告白クイーン決定戦!! | [:simple-bilibili:](https://www.bilibili.com/video/BV1n741147Xq/) |
 | 077 | 2019.12.21 | パネル解除争奪! クリスマス告白クイーン決定戦!! (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1p741147eH/) |
 | 078 | 2019.12.28 | パネル解除争奪! クリスマス告白クイーン決定戦!! (3) | [:simple-bilibili:](https://www.bilibili.com/video/BV1i741147dJ/) |
+| SP | 2020.11.20 | Blu-rayヒット祈願 in 須賀神社 | [:simple-bilibili:](https://www.bilibili.com/video/BV1yZ4y137xu/) [:simple-youtube:](https://www.youtube.com/watch?v=KumakV3bC5c) |

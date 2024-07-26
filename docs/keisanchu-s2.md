@@ -47,3 +47,4 @@ title: 計算中S2
 | 038 | 2020.12.19 | 22/7一言恋愛ドラマ選手権 (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1by4y1n7nM/) |
 | 039 | 2020.12.26 | 22/7の疑問に答えます! アレ何でカットになったの〜!? | [:simple-bilibili:](https://www.bilibili.com/video/BV1Lh411M7w2/?spm_id_from=..search-card.all.click) |
 | SP  | 2021.01.01 | 22/7計算中 お正月スペシャル!! | [:simple-bilibili:](https://www.bilibili.com/video/BV1gV411t7p4/) |
+| SP  | 2021.05.22 | Blu-rayヒット祈願動画 | [:simple-youtube:](https://www.youtube.com/watch?v=g5Slpp8LLXE) |

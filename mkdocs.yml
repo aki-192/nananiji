@@ -10,13 +10,16 @@ nav:
   - keisanchu-s5.md
   - keisangai.md
   - sp.md
+  - live.md
 theme:
   name: material
   palette:
-    primary: light blue
+    primary: custom
 plugins: []
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra_css:
+  - stylesheets/extra.css
