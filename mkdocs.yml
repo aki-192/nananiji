@@ -2,6 +2,11 @@ site_name: 22/7
 site_url: https://aki-192.github.io/nananiji/
 nav:
   - index.md
+  - keisanchu.md
+  - keisanchu-s2.md
+  - kensanchu.md
+  - keisanchu-s3.md
+  - keisanchu-s4.md
   - keisanchu-s5.md
   - keisangai.md
   - sp.md
@@ -10,3 +15,8 @@ theme:
   palette:
     primary: light blue
 plugins: []
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
