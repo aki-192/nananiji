@@ -6,7 +6,7 @@ title: 計算中
 
 | #   | Date | Title | B |
 | --- | --- | --- | --- | 
-| 001 | 2018.07.07 | 私たちをもっと知って欲しい 22/7自己PR動画コンテスト | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411n7Xo/) |
+| 001 | 2018.07.07 | 私たちをもっと知って欲しい 22/7自己PR動画コンテスト | [:simple-bilibili:](https://www.bilibili.com/video/BV16s411n7Xo/) [:simple-youtube:](https://www.youtube.com/watch?v=GOGfjjphWdg) |
 | 002 | 2018.07.14 | 私たちをもっと知って欲しい 22/7自己PR動画コンテスト (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1ks41177P3/) |
 | 003 | 2018.07.21 | アイドルの登竜門 絶叫リポート選手権 | [:simple-bilibili:](https://www.bilibili.com/video/BV1ms411c7rs/) |
 | 004 | 2018.07.28 | アイドルの登竜門 絶叫リポート選手権 (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1SW411R7Gg/) |

@@ -7,7 +7,7 @@ title: 計算中S2
 | #   | Date | Title | B |
 | --- | --- | --- | --- | 
 | SP  | 2020.03.27 | アニメ最終回&Season2開始 全部まとめて番宣スペシャル! | [:simple-bilibili:](https://www.bilibili.com/video/BV1D7411D7Xm/) |
-| 001 | 2020.04.04 | 番組でやってみたい企画プレゼンバトル | [:simple-bilibili:](https://www.bilibili.com/video/BV1EZ4y1x724/) |
+| 001 | 2020.04.04 | 番組でやってみたい企画プレゼンバトル | [:simple-bilibili:](https://www.bilibili.com/video/BV1EZ4y1x724/) [:simple-youtube:](https://www.youtube.com/watch?v=34W_FKdW_1g) |
 | 002 | 2020.04.11 | 番組でやってみたい企画プレゼンバトル (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1aZ4y1x7tz/) |
 | 003 | 2020.04.18 | 2020年No.1ラッキーガールは誰だ!? 22/7運勢ランキング! | [:simple-bilibili:](https://www.bilibili.com/video/BV1nV411Z7W8/) |
 | 004 | 2020.04.25 | 2020年No.1ラッキーガールは誰だ!? 22/7運勢ランキング! (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1he411s7j6/) |

@@ -57,4 +57,4 @@ title: 計算中S4
 | 049 | 2023.03.11 | 後輩メンバー やってみたい企画プレゼンバトル (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1ns4y1m7E9/) |
 | 050 | 2023.03.18 | 滝川みうの"やったコトある"を当てまSHOW!! | [:simple-bilibili:](https://www.bilibili.com/video/BV1xh4y1p7Q4/) |
 | 051 | 2023.03.25 | 滝川みう!はじめての〇〇! | [:simple-bilibili:](https://www.bilibili.com/video/BV1Ga4y1u77w/) |
-| CM  | 2023.05.27 | Blu-ray オリジナルCM | [:simple-youtube:](https://www.youtube.com/watch?v=bdCyLwL0rhI) :material-link-lock: |
+| CM  | 2023.05.27 | Blu-ray オリジナルCM | [:simple-youtube:](https://www.youtube.com/watch?v=bdCyLwL0rhI) :material-link-lock: 蛍 <br> [:simple-youtube:](https://www.youtube.com/watch?v=aUZaLgmjIWk) :material-link-lock: 晴 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1ju4y1o7D4/) [:simple-youtube:](https://www.youtube.com/watch?v=iyIVmndXHQ8) :material-link-lock: 気 <br> [:simple-bilibili:](https://www.bilibili.com/video/BV1yc411G7Gt/?spm_id_from=..search-card.all.click) [:simple-youtube:](https://www.youtube.com/watch?v=F_Nu7s7f0H8)  |

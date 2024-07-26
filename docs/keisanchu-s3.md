@@ -6,7 +6,7 @@ title: 計算中S3
 
 | #   | Date | Title | B |
 | --- | --- | --- | --- | 
-| 001 | 2021.04.03 | 教えて先輩! ナナニジアイドル講座 | [:simple-bilibili:](https://www.bilibili.com/video/BV1xh411U7jT/) |
+| 001 | 2021.04.03 | 教えて先輩! ナナニジアイドル講座 | [:simple-bilibili:](https://www.bilibili.com/video/BV1xh411U7jT/) [:simple-youtube:](https://www.youtube.com/watch?v=9cccoFZajN8) |
 | 002 | 2021.04.10 | 教えて先輩! ナナニジアイドル講座 (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1WB4y1A7nD/) |
 | 003 | 2021.04.17 | 教えて先輩! ナナニジアイドル講座 (3) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Vf4y1p7gu/) |
 | 004 | 2021.04.24 | ナナニジ短期集中学習クイーン決定戦! | [:simple-bilibili:](https://www.bilibili.com/video/BV1hZ4y1F7GA/) |
@@ -58,3 +58,4 @@ title: 計算中S3
 | 050 | 2022.03.12 | 第4回 あなたはどっち派?究極の選択 | [:simple-bilibili:](https://www.bilibili.com/video/BV1du411i7KG/) |
 | 051 | 2022.03.19 | 22/7 計算中 season3 私のお気に入りシーンBEST3 | [:simple-bilibili:](https://www.bilibili.com/video/BV1w34y1475A/) |
 | 052 | 2022.03.26 | 22/7 計算中 season3 私のお気に入りシーンBEST3 (2) | [:simple-bilibili:](https://www.bilibili.com/video/BV1a3411J7hX/) |
+| CM  | 2022.03.28 | Blu-ray オリジナルCMでキャンペーン大作戦！ | [:simple-bilibili:](https://www.bilibili.com/video/BV125411m7m2/) [:simple-youtube:](https://www.youtube.com/watch?v=rRQSGAqnI5s) :material-link-lock: |
