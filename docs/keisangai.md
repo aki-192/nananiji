@@ -20,3 +20,4 @@ title: 計算外
 | 012 | 2024.07.06 | チーム対抗! ナナニジ即興演技バトル! (2) | [:simple-youtube:](https://www.youtube.com/watch?v=XvaVRkawW-8) | [:simple-bilibili:](https://www.bilibili.com/video/BV1Tf421i72p/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1z4421D7mx/) |
 | 013 | 2024.07.13 | ナナニジ部活承認プレゼンバトル! | [:simple-youtube:](https://www.youtube.com/watch?v=EuDWMos1DGs) | [:simple-bilibili:](https://www.bilibili.com/video/BV1jm42137Ub/) | [:simple-bilibili:](https://www.bilibili.com/video/BV1jf421B7oA/) |
 | 014 | 2024.07.20 | ナナニジ部活承認プレゼンバトル! (2) | [:simple-youtube:](https://www.youtube.com/watch?v=nosHA0qObHY) |  |  |
+| 015 | 2024.07.27 | クイズ！ナナニジライブ事件簿 | [:simple-youtube:](https://www.youtube.com/watch?v=TYNEN4Zci-I) | | |
