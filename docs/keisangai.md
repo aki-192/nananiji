@@ -22,3 +22,4 @@ title: 計算外
 | 014 | 2024.07.20 | ナナニジ部活承認プレゼンバトル! (2) | [:simple-youtube:](https://www.youtube.com/watch?v=nosHA0qObHY) |  | [:simple-bilibili:](https://www.bilibili.com/video/BV1ar421M7Jo/) |
 | 015 | 2024.07.27 | クイズ！ナナニジライブ事件簿 | [:simple-youtube:](https://www.youtube.com/watch?v=TYNEN4Zci-I) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1rjYPeWERz/) |
 | 016 | 2024.08.03 | チーム対抗美術センスバトル！ | [:simple-youtube:](https://www.youtube.com/watch?v=jWlzGOhDFFg) | | |
+| 017 | 2024.08.10 | チーム対抗！美術センスバトル後半戦 | [:simple-youtube:](https://www.youtube.com/watch?v=GOm3qFLLfdA) | | | 
