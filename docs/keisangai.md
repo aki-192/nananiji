@@ -23,5 +23,5 @@ title: 計算外
 | 015 | 2024.07.27 | クイズ！ナナニジライブ事件簿 | [:simple-youtube:](https://www.youtube.com/watch?v=TYNEN4Zci-I) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1rjYPeWERz/) |
 | 016 | 2024.08.03 | チーム対抗美術センスバトル！ | [:simple-youtube:](https://www.youtube.com/watch?v=jWlzGOhDFFg) | | [:simple-bilibili:](https://www.bilibili.com/video/BV15oeweVEPR/) |
 | 017 | 2024.08.10 | チーム対抗！美術センスバトル後半戦 | [:simple-youtube:](https://www.youtube.com/watch?v=GOm3qFLLfdA) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1JApreaEPq/?spm_id_from=..search-card.all.click) | 
-| 018 | 2024.08.17 | ナナニジ バンドやろうぜ！ | [:simple-youtube:](https://www.youtube.com/watch?v=Bo6iPp-bM6U) | | |
+| 018 | 2024.08.17 | ナナニジ バンドやろうぜ！ | [:simple-youtube:](https://www.youtube.com/watch?v=Bo6iPp-bM6U) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1xeWBeqEpz/) |
 | 019 | 2024.08.24 | ナナニジ バンドやろうぜ！完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=emTXCCDjyUA) | | |
