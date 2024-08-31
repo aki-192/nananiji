@@ -25,3 +25,4 @@ title: 計算外
 | 017 | 2024.08.10 | チーム対抗！美術センスバトル後半戦 | [:simple-youtube:](https://www.youtube.com/watch?v=GOm3qFLLfdA) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1JApreaEPq/?spm_id_from=..search-card.all.click) | 
 | 018 | 2024.08.17 | ナナニジ バンドやろうぜ！ | [:simple-youtube:](https://www.youtube.com/watch?v=Bo6iPp-bM6U) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1xeWBeqEpz/) |
 | 019 | 2024.08.24 | ナナニジ バンドやろうぜ！完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=emTXCCDjyUA) | | |
+| 020 | 2024.08.31 | 涼花萌の卒業までにしたい○○のこと | [:simple-youtube:](https://www.youtube.com/watch?v=Clhm_tNLTJ0) | | |
