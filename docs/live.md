@@ -31,6 +31,8 @@ title: LIVE
 | 2023.11.07 | ANNIVERSARY LIVE 2023 | | [:simple-bilibili: L](https://www.bilibili.com/video/BV1wM411D71J/) <br> [:simple-bilibili: FC](https://www.bilibili.com/video/BV1aM411S7VN/) <br> [:simple-bilibili: BTS](https://www.bilibili.com/video/BV1ZJ4m1h75T/) |
 | 2023.12.23 | Character's Theater 2023 | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1jv421y7aY/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1Fr421c77f/) | [:simple-bilibili: BTS](https://www.bilibili.com/video/BV12z421U7pa/) |
 | 2024.07.24 | Summer Live 2024 『Magic School Days ～月と地球のフィルハーモニー～-』 | | [:simple-bilibili:](https://www.bilibili.com/video/BV13W42197J7/) |
+| 2024.08.31 | Summer Live 2024 「Magic School Days」 〜夏の夜空と最後の魔法〜』 | | [:simple-bilibili:](https://www.bilibili.com/video/BV1uJnfeoEEE/) |
+| 2024.08.31 | 涼花萌　卒業コンサート〜もえぴよ♡ぴよぴよWonderland♡のtea party♡〜 | | [:simple-bilibili:](https://www.bilibili.com/video/BV1KbHcebECa/) |
 
 # LIVE
 
