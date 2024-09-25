@@ -27,4 +27,6 @@ title: 計算外
 | 019 | 2024.08.24 | ナナニジ バンドやろうぜ！完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=emTXCCDjyUA) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1i7HteDEPw/) |
 | 020 | 2024.08.31 | 涼花萌の卒業までにしたい○○のこと | [:simple-youtube:](https://www.youtube.com/watch?v=Clhm_tNLTJ0) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1MspzezEWU/) |
 | 021 | 2024.09.07 | 涼花萌が卒業までにしたい○○のこと～延長戦～ | [:simple-youtube:](https://www.youtube.com/watch?v=d0cRaTSvfxY) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1Lq42eEELy/) |
-| 022 | 2024.09.16 | ナナニジ 秋の極せま運動会！ | [:simple-youtube:](https://www.youtube.com/watch?v=BQx3LnAKfm4) | | |
+| 022 | 2024.09.16 | ナナニジ 秋の極せま運動会！ | [:simple-youtube:](https://www.youtube.com/watch?v=BQx3LnAKfm4) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1T1tUeyEWg/) |
+| 023 | 2024.09.21 | ナナニジ 秋の極せま運動会！ | [:simple-youtube:](https://www.youtube.com/watch?v=GAuVV-C9rv8) | | |
+
