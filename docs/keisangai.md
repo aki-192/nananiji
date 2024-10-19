@@ -32,3 +32,4 @@ title: 計算外
 | 024 | 2024.09.28 | ナナニジ秋の極せま運動会 最終章！ | [:simple-youtube:](https://www.youtube.com/watch?v=dkIlDEiYOtg) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1BB11YyEu3/) |
 | 025 | 2024.10.05 | みんなの理想を叶えよう！七虹学園席替え会議 | [:simple-youtube:](https://www.youtube.com/watch?v=LnRcvzQMJaA) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1BG2zYcEBu/) |
 | 026 | 2024.10.12 | みんなの理想を叶えよう！七虹学園席替え会議　完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=yzGlnoJFwjg) | | |
+| 027 | 2024.10.19 | クイズ！ＹＥＳとＮＯの間に | [:simple-youtube:](https://www.youtube.com/watch?v=pKObQfxcPpE) | | |
