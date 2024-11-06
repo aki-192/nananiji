@@ -31,5 +31,7 @@ title: 計算外
 | 023 | 2024.09.21 | ナナニジ 秋の極せま運動会！ | [:simple-youtube:](https://www.youtube.com/watch?v=GAuVV-C9rv8) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1C5xie8Exr/) |
 | 024 | 2024.09.28 | ナナニジ秋の極せま運動会 最終章！ | [:simple-youtube:](https://www.youtube.com/watch?v=dkIlDEiYOtg) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1BB11YyEu3/) |
 | 025 | 2024.10.05 | みんなの理想を叶えよう！七虹学園席替え会議 | [:simple-youtube:](https://www.youtube.com/watch?v=LnRcvzQMJaA) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1BG2zYcEBu/) |
-| 026 | 2024.10.12 | みんなの理想を叶えよう！七虹学園席替え会議　完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=yzGlnoJFwjg) | | |
-| 027 | 2024.10.19 | クイズ！ＹＥＳとＮＯの間に | [:simple-youtube:](https://www.youtube.com/watch?v=pKObQfxcPpE) | | |
+| 026 | 2024.10.12 | みんなの理想を叶えよう！七虹学園席替え会議　完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=yzGlnoJFwjg) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1ccyVYdEZS) |
+| 027 | 2024.10.19 | クイズ！ＹＥＳとＮＯの間に | [:simple-youtube:](https://www.youtube.com/watch?v=pKObQfxcPpE) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1L317YbEWo) |
+| 028 | 2024.10.26 | 不要な物を活用！秋のナナニジバザー！ | [:simple-youtube:](https://www.youtube.com/watch?v=PybHYz7xV6o) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1f7DVYiEbs/)
+| 029 | 2024.11.02 | 秋のナナニジバザー後半戦 | [:simple-youtube:](https://www.youtube.com/watch?v=4LYw-QYt7oE) | | |
