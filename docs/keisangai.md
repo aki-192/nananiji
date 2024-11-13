@@ -34,4 +34,5 @@ title: 計算外
 | 026 | 2024.10.12 | みんなの理想を叶えよう！七虹学園席替え会議　完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=yzGlnoJFwjg) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1ccyVYdEZS) |
 | 027 | 2024.10.19 | クイズ！ＹＥＳとＮＯの間に | [:simple-youtube:](https://www.youtube.com/watch?v=pKObQfxcPpE) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1L317YbEWo) |
 | 028 | 2024.10.26 | 不要な物を活用！秋のナナニジバザー！ | [:simple-youtube:](https://www.youtube.com/watch?v=PybHYz7xV6o) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1f7DVYiEbs/)
-| 029 | 2024.11.02 | 秋のナナニジバザー後半戦 | [:simple-youtube:](https://www.youtube.com/watch?v=4LYw-QYt7oE) | | |
+| 029 | 2024.11.02 | 秋のナナニジバザー後半戦 <br> ナナニジディベートバトル！| [:simple-youtube:](https://www.youtube.com/watch?v=4LYw-QYt7oE) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1ujmUYVEqA/) |
+| 030 | 2024.11.09 | ナナニジディベートバトル 後半戦！ | [:simple-youtube:](https://www.youtube.com/watch?v=E8YlcxF9nkA) | | |
