@@ -36,4 +36,4 @@ title: 計算外
 | 028 | 2024.10.26 | 不要な物を活用！秋のナナニジバザー！ | [:simple-youtube:](https://www.youtube.com/watch?v=PybHYz7xV6o) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1f7DVYiEbs/)
 | 029 | 2024.11.02 | 秋のナナニジバザー後半戦 <br> ナナニジディベートバトル！| [:simple-youtube:](https://www.youtube.com/watch?v=4LYw-QYt7oE) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1ujmUYVEqA/) |
 | 030 | 2024.11.09 | ナナニジディベートバトル 後半戦！ | [:simple-youtube:](https://www.youtube.com/watch?v=E8YlcxF9nkA) | | [:simple-bilibili:](https://www.bilibili.com/video/BV153BBYYEPx/) |
-| 031 | 2024.11.16 | 椎名桜月地元凱旋！山梨県社会科見学ツアー | [:simple-youtube:](https://www.youtube.com/watch?v=FU0OkJqUduI) | | |
+| 031 | 2024.11.16 | 椎名桜月地元凱旋！山梨県社会科見学ツアー | [:simple-youtube:](https://www.youtube.com/watch?v=FU0OkJqUduI) | | [:simple-bilibili:](https://www.bilibili.com/video/BV18gBRYuEd2/) |
