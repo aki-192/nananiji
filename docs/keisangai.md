@@ -37,3 +37,7 @@ title: 計算外
 | 029 | 2024.11.02 | 秋のナナニジバザー後半戦 <br> ナナニジディベートバトル！| [:simple-youtube:](https://www.youtube.com/watch?v=4LYw-QYt7oE) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1ujmUYVEqA/) |
 | 030 | 2024.11.09 | ナナニジディベートバトル 後半戦！ | [:simple-youtube:](https://www.youtube.com/watch?v=E8YlcxF9nkA) | | [:simple-bilibili:](https://www.bilibili.com/video/BV153BBYYEPx/) |
 | 031 | 2024.11.16 | 椎名桜月地元凱旋！山梨県社会科見学ツアー | [:simple-youtube:](https://www.youtube.com/watch?v=FU0OkJqUduI) | | [:simple-bilibili:](https://www.bilibili.com/video/BV18gBRYuEd2/) |
+| 032 | 2024.11.23 | 椎名桜月！地元凱旋！山梨県社会科見学ツアー | [:simple-youtube:](https://www.youtube.com/watch?v=ju4ef0tut50) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1vTi2YHEfH/) | 
+| 033 | 2024.11.30 | 椎名桜月 地元凱旋！山梨県社会科見学ツアー！ | [:simple-youtube:](https://www.youtube.com/watch?v=wfytSKtZDhY) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1CCqPYSESC) |
+| 034 | 2024.12.07 | 椎名桜月 地元凱旋！山梨県社会科見学ツアー 最終章！ | [:simple-youtube:](https://www.youtube.com/watch?v=ZtNyLv8e5UY) | | |
+| 035 | 2024.12.14 | 七虹学園クリスマスパーティー！ | [:simple-youtube:](https://www.youtube.com/watch?v=a0pcm5MXAuU0) | | | 
