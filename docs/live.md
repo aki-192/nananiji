@@ -34,6 +34,7 @@ title: LIVE
 | 2024.08.31 | Summer Live 2024 「Magic School Days」 〜夏の夜空と最後の魔法〜』 | | [:simple-bilibili:](https://www.bilibili.com/video/BV1uJnfeoEEE/) |
 | 2024.08.31 | 涼花萌　卒業コンサート〜もえぴよ♡ぴよぴよWonderland♡のtea party♡〜 | | [:simple-bilibili:](https://www.bilibili.com/video/BV1KbHcebECa/) |
 | 2024.11.09~2024.11.10 | ANNIVERSARY LIVE 2024 |  |  [:simple-bilibili: D1 P1 気](https://www.bilibili.com/video/BV1DADkYBEz2/) <br> [:simple-bilibili: D1 P2 晴](https://www.bilibili.com/video/BV1SDDkYiE6o/) <br> [:simple-bilibili: D2 P1 蛍](https://www.bilibili.com/video/BV1Tcm6YHE4j/) <br> [:simple-bilibili: D2 P2](https://www.bilibili.com/video/BV1KPm6YJEsc/) |
+| 2024.12.28 | CHARACTER LIVE 2024 〜RED or WHITE？〜 | | [:simple-bilibili: P1](https://www.bilibili.com/video/BV1NT6bYAEvq/) <br> [:simple-bilibili: P2](https://www.bilibili.com/video/BV1Jq6tYXEiG/) |
 
 # LIVE
 
