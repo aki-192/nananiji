@@ -40,5 +40,6 @@ title: 計算外
 | 032 | 2024.11.23 | 椎名桜月！地元凱旋！山梨県社会科見学ツアー | [:simple-youtube:](https://www.youtube.com/watch?v=ju4ef0tut50) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1vTi2YHEfH/) | 
 | 033 | 2024.11.30 | 椎名桜月 地元凱旋！山梨県社会科見学ツアー！ | [:simple-youtube:](https://www.youtube.com/watch?v=wfytSKtZDhY) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1CCqPYSESC) |
 | 034 | 2024.12.07 | 椎名桜月 地元凱旋！山梨県社会科見学ツアー 最終章！ | [:simple-youtube:](https://www.youtube.com/watch?v=ZtNyLv8e5UY) | | [:simple-bilibili:](https://www.bilibili.com/video/BV17NkJY8Ep1/) |
-| 035 | 2024.12.14 | 七虹学園クリスマスパーティー！ | [:simple-youtube:](https://www.youtube.com/watch?v=a0pcm5MXAuU0) | | | 
+| 035 | 2024.12.14 | 七虹学園クリスマスパーティー！ | [:simple-youtube:](https://www.youtube.com/watch?v=a0pcm5MXAuU0) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1vBChY8EkV) | 
 | 036 | 2024.12.21 | 七虹学園クリスマスパーティー！ | [:simple-youtube:](https://www.youtube.com/watch?v=E3aOsDKCaFQ) | | | 
+| 037 | 2024.12.28 | 22/7計算外2024フレーズ大賞！ | [:simple-youtube:](https://www.youtube.com/watch?v=RxspvtFqEjQ) | | |
