@@ -43,4 +43,7 @@ title: 計算外
 | 035 | 2024.12.14 | 七虹学園クリスマスパーティー！ | [:simple-youtube:](https://www.youtube.com/watch?v=a0pcm5MXAuU0) | | [:simple-bilibili:]( https://www.bilibili.com/video/BV1CU6fY1EDe/) | 
 | 036 | 2024.12.21 | 七虹学園クリスマスパーティー！ | [:simple-youtube:](https://www.youtube.com/watch?v=E3aOsDKCaFQ) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1dm6DY5Ef7/) | 
 | 037 | 2024.12.28 | 22/7計算外2024フレーズ大賞！ | [:simple-youtube:](https://www.youtube.com/watch?v=RxspvtFqEjQ) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1zKrBYmEgW/) |
-| 038 | 2025.01.04 | 新春！七虹学園お正月祭り！ | [:simple-youtube:](https://www.youtube.com/watch?v=ExVl-fxt8Tw) | | |
+| 038 | 2025.01.04 | 新春！七虹学園お正月祭り！ | [:simple-youtube:](https://www.youtube.com/watch?v=ExVl-fxt8Tw) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1BGc8egEnU/) |
+| 039 | 2025.01.11 | 新春！七虹学園お正月祭り～後編～ | [:simple-youtube:](https://www.youtube.com/watch?v=wlkuYcTkamY) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1N3fGYcEpu/) |
+| 040 | 2025.01.18 | 七虹学園なんでもNo.1グランプリ | [:simple-youtube:](https://www.youtube.com/watch?v=vvRUI3cUUNk) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1yrfSYNEt4/) |
+| 041 | 2025.01.25 | 七虹学園なんでもNo.1グランプリ！〜後編〜 | [:simple-youtube:](https://www.youtube.com/watch?v=KdcLwsJ4fR0) | | |
