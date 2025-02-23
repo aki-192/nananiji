@@ -46,4 +46,8 @@ title: 計算外
 | 038 | 2025.01.04 | 新春！七虹学園お正月祭り！ | [:simple-youtube:](https://www.youtube.com/watch?v=ExVl-fxt8Tw) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1BGc8egEnU/) |
 | 039 | 2025.01.11 | 新春！七虹学園お正月祭り～後編～ | [:simple-youtube:](https://www.youtube.com/watch?v=wlkuYcTkamY) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1N3fGYcEpu/) |
 | 040 | 2025.01.18 | 七虹学園なんでもNo.1グランプリ | [:simple-youtube:](https://www.youtube.com/watch?v=vvRUI3cUUNk) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1yrfSYNEt4/) |
-| 041 | 2025.01.25 | 七虹学園なんでもNo.1グランプリ！〜後編〜 | [:simple-youtube:](https://www.youtube.com/watch?v=KdcLwsJ4fR0) | | |
+| 041 | 2025.01.25 | 七虹学園なんでもNo.1グランプリ！〜後編〜 | [:simple-youtube:](https://www.youtube.com/watch?v=KdcLwsJ4fR0) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1QbPzecEqx/) |
+| 042 | 2025.02.01 | 七虹学園フォレの女グランプリ！ | [:simple-youtube:](https://www.youtube.com/watch?v=ZZ0g2Ve4h4w) | | [:simple-bilibili:](https://www.bilibili.com/video/BV141NBesEm1/) |
+| 043 | 2025.02.08 | 七虹学園フォレの女グランプリ！ | [:simple-youtube:](https://www.youtube.com/watch?v=GvspgkwmpM8) | | [:simple-bilibili:](https://www.bilibili.com/video/BV13ZABebEkv/) |
+| 044 | 2025.02.15 | 七虹学園フォレの女グランプリ！最終章 | [:simple-youtube:](https://www.youtube.com/watch?v=IU7TRZhA3E4) | | |
+| 045 | 2025.02.22 | 14thシングル『ロックは死なない』ヒットキャンペーン！ | [:simple-youtube:](https://www.youtube.com/watch?v=V6jdNVO52k4) | | |
