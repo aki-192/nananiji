@@ -49,5 +49,8 @@ title: 計算外
 | 041 | 2025.01.25 | 七虹学園なんでもNo.1グランプリ！〜後編〜 | [:simple-youtube:](https://www.youtube.com/watch?v=KdcLwsJ4fR0) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1QbPzecEqx/) |
 | 042 | 2025.02.01 | 七虹学園フォレの女グランプリ！ | [:simple-youtube:](https://www.youtube.com/watch?v=ZZ0g2Ve4h4w) | | [:simple-bilibili:](https://www.bilibili.com/video/BV141NBesEm1/) |
 | 043 | 2025.02.08 | 七虹学園フォレの女グランプリ！ | [:simple-youtube:](https://www.youtube.com/watch?v=GvspgkwmpM8) | | [:simple-bilibili:](https://www.bilibili.com/video/BV13ZABebEkv/) |
-| 044 | 2025.02.15 | 七虹学園フォレの女グランプリ！最終章 | [:simple-youtube:](https://www.youtube.com/watch?v=IU7TRZhA3E4) | | |
-| 045 | 2025.02.22 | 14thシングル『ロックは死なない』ヒットキャンペーン！ | [:simple-youtube:](https://www.youtube.com/watch?v=V6jdNVO52k4) | | |
+| 044 | 2025.02.15 | 七虹学園フォレの女グランプリ！最終章 | [:simple-youtube:](https://www.youtube.com/watch?v=IU7TRZhA3E4) | | [:simple-bilibili:](https://www.bilibili.com/video/BV12T9wYsEkc/) |
+| 045 | 2025.02.22 | 14thシングル『ロックは死なない』ヒットキャンペーン！ | [:simple-youtube:](https://www.youtube.com/watch?v=V6jdNVO52k4) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xd9WYcEuj/) |
+| 046 | 2025.03.01 | ナナニジクイズＶＴＲクイーン決定戦！ | [:simple-youtube:](https://www.youtube.com/watch?v=C1vX-p3c4Ow) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1CTQkYfEmT/) |
+| 047 | 2025.03.08 | ナナニジクイズＶＴＲクイーン決定戦！～後半戦～ | [:simple-youtube:](https://www.youtube.com/watch?v=yi9CeZHWR-A) | | |
+| 048 | 2025.03.15 | 七虹学園 極せまお花見会 | [:simple-youtube:](https://www.youtube.com/watch?v=iKIywT3OBso) | | |
