@@ -52,5 +52,7 @@ title: 計算外
 | 044 | 2025.02.15 | 七虹学園フォレの女グランプリ！最終章 | [:simple-youtube:](https://www.youtube.com/watch?v=IU7TRZhA3E4) | | [:simple-bilibili:](https://www.bilibili.com/video/BV12T9wYsEkc/) |
 | 045 | 2025.02.22 | 14thシングル『ロックは死なない』ヒットキャンペーン！ | [:simple-youtube:](https://www.youtube.com/watch?v=V6jdNVO52k4) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1Xd9WYcEuj/) |
 | 046 | 2025.03.01 | ナナニジクイズＶＴＲクイーン決定戦！ | [:simple-youtube:](https://www.youtube.com/watch?v=C1vX-p3c4Ow) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1CTQkYfEmT/) |
-| 047 | 2025.03.08 | ナナニジクイズＶＴＲクイーン決定戦！～後半戦～ | [:simple-youtube:](https://www.youtube.com/watch?v=yi9CeZHWR-A) | | |
-| 048 | 2025.03.15 | 七虹学園 極せまお花見会 | [:simple-youtube:](https://www.youtube.com/watch?v=iKIywT3OBso) | | |
+| 047 | 2025.03.08 | ナナニジクイズＶＴＲクイーン決定戦！～後半戦～ | [:simple-youtube:](https://www.youtube.com/watch?v=yi9CeZHWR-A) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1RGQoYQEtZ/) |
+| 048 | 2025.03.15 | 七虹学園 極せまお花見会 | [:simple-youtube:](https://www.youtube.com/watch?v=iKIywT3OBso) | | [:simple-bilibili:](https://www.bilibili.com/video/BV13Wo2YAEEF/) |
+| 049 | 2025.03.22 | 七虹学園 極せまお花見会 | [:simple-youtube:](https://www.youtube.com/watch?v=er_xJHJSScg) | | [:simple-bilibili:](https://www.bilibili.com/video/BV1mgZhYSEkk/) |
+| 050 | 2025.03.29 | 七虹学園『極せま』お花見会 完結編！ | [:simple-youtube:](https://www.youtube.com/watch?v=nGQbR55l6z4) | | |
